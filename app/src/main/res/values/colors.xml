@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#AE0000</color>
+    <color name="orage">#BF540C</color>
+    <color name="orange_tua">#994215</color>
+    <color name="orange_muda">#E49600</color>
+    <color name="orange_agak_muda">#E18F2C</color>
+    <color name="kuning">#F9E56C</color>
+</resources>

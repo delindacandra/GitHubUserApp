@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GitHubUserApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary"> @color/orage</item>
+        <item name="colorPrimaryVariant">@color/orange_tua</item>
+        <item name="colorOnPrimary">@color/orange_muda</item>
+        <item name="colorSecondary">@color/orange_agak_muda</item>
+        <item name="colorSecondaryVariant">@color/kuning</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+</resources>

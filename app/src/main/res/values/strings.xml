@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHubUserApp</string>
+    <string name="layout_name">Nama</string>
+    <string name="searchview_name">Masukkan Nama</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="this_activity">Coba</string>
+    <string name="followers_fragment">Followers</string>
+    <string name="following_fragment">Following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="favorite">Favorite</string>
+    <string name="theme">Theme</string>
+    <string name="username">Username</string>
+    <string name="real_name">Name</string>
+    <string name="fav_list">List Favorite</string>
+    <string name="detail">Detail User</string>
+    <string name="night">Dark Mode</string>
+</resources>
